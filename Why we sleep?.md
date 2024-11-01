@@ -30,8 +30,6 @@
 
 These traditional Indian systems offer holistic approaches to sleep, emphasizing the importance of aligning with natural rhythms and maintaining balance in daily life to achieve restful and restorative sleep. 
 
-In Ayurveda, sleep (*Nidra*) is regarded as one of the three fundamental pillars of health, alongside diet (*Ahara*) and regulated sexual conduct (*Brahmacharya*). It is considered essential for maintaining physical vitality, mental clarity, and emotional balance.
-
 In Ayurveda, sleep (*Nidra*) is esteemed as one of the three fundamental pillars of health, alongside diet (*Ahara*) and regulated sexual conduct (*Brahmacharya*). This triad is considered essential for maintaining physical vitality, mental clarity, and emotional balance.
 
 **1. Physical Rejuvenation:**
@@ -81,5 +79,5 @@
 
 By integrating these practices, Ayurveda aims to harmonize the body's natural rhythms, leading to improved sleep quality and overall health. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODEyODU1NCwtMTMxNzgwODk2XX0=
+eyJoaXN0b3J5IjpbLTE5MTk3OTU2NDcsLTEzMTc4MDg5Nl19
 -->
