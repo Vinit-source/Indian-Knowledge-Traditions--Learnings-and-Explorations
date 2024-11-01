@@ -79,5 +79,5 @@
 
 By integrating these practices, Ayurveda aims to harmonize the body's natural rhythms, leading to improved sleep quality and overall health. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk3OTU2NDcsLTEzMTc4MDg5Nl19
+eyJoaXN0b3J5IjpbLTE5MTk3OTU2NDddfQ==
 -->
